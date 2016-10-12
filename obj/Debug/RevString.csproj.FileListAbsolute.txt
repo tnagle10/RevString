@@ -1,0 +1,6 @@
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\RevString\RevString\bin\Debug\RevString.exe.config
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\RevString\RevString\bin\Debug\RevString.exe
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\RevString\RevString\bin\Debug\RevString.pdb
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\RevString\RevString\obj\Debug\RevString.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\RevString\RevString\obj\Debug\RevString.exe
+C:\Users\Thomas\OneDrive\Documents\Visual Studio 2015\Projects\RevString\RevString\obj\Debug\RevString.pdb
